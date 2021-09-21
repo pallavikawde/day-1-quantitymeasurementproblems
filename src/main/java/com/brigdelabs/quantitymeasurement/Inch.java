@@ -1,9 +1,7 @@
 package com.brigdelabs.quantitymeasurement;
 
-import java.util.Objects;
-
 public class Inch {
-    private final double value;
+    private double value;
 
     public Inch(double value) {
         this.value = value;
