@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.brigdelabs.quantitymeasurement.QuantityTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2021-09-21T10:15:23" hostname="LAPTOP-V004507B" time="0.054">
+<testsuite name="com.brigdelabs.quantitymeasurement.QuantityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-22T13:00:33" hostname="LAPTOP-V004507B" time="0.019">
   <properties/>
-  <testcase name="givenNullCheck_whencompare_shouldreturnNotEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.026"/>
-  <testcase name="givenTwoVAlueWithDifferentRefrances_whencompare_shouldreturnfalse()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.002"/>
-  <testcase name="given1yard36inch_whencompare_shouldreturnequals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="given1ftand1yard_whencompare_shouldreturnNotEqual()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="given3feetand1yard_whencomapre_shouldreturnEqual()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="given0inchand0inch_whencompare_shouldreturnEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="Given1inchand1yard_whencompare_shouldreturnNotEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="given0feetand1feet_whencompare_shouldreturnnotEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="givenNullINCH_whencompare_shouldreturnNotEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="givenTwoInchesWithDifferentRefrances_whencompare_shouldreturnfalse()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="given36inch1yard_whencompare_shouldreturnequal()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="given0feetand0feet_whencompare_shouldreturnEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="given1yard2feet_whencompare_shouldreturnEqual()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.0"/>
-  <testcase name="givenTwoVAlueWithSameRefrances_whencompare_shouldreturnTrue()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.002"/>
-  <testcase name="given0inchand1inch_whencompare_shouldreturnnotEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="givenTwoinchType_whencompare_shouldreturnNotEqual()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="givenTwoType_whencompare_shouldreturnNotEqual()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.0"/>
-  <testcase name="given1FeetAnd12Inch_WhenEqual_ShouldReturnEquals()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
-  <testcase name="givenTwoinchesWithSameRefrances_whencompare_shouldreturnTrue()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.001"/>
+  <testcase name="given2inand5cm_whencompare_shouldreturntrue()" classname="com.brigdelabs.quantitymeasurement.QuantityTest" time="0.019"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
